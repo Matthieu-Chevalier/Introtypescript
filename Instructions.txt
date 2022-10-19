@@ -1,0 +1,32 @@
+https://prod.liveshare.vsengsaas.visualstudio.com/join?216C93FCF5E3702ADBBE13175D4BFB7A9C05
+
+Exercice 1:
+
+- Créer un tableau vide
+- Typer le tableau
+- Ajouter entre 3 et 5 ingrédients
+
+Exercice 2:
+
+- Ajouter un ingrédient
+- Ajouter un ingrédient en premier dans le tableau
+- Ajouter un ingrédient en dernier dans le tableau
+- Modifier un ingrédient en utilisant son index
+- Modifier un ingrédient en utilisant sa clé
+- Modifier un ingrédient
+- Supprimer l'ingrédient à l'index 0
+- Supprimer un ingédrient en utilisant sa clé
+- Supprimer le premier ingrédient du tableau
+- Supprimer le dernier ingrédient du tableau
+
+Exercice 3:
+
+- Créer un deuxième tableau d'ingrédients
+- Fusionner les deux tableaux
+- Afficher le résultat de la fusion
+
+Exercice 4:
+
+Vous disposez d'une base de données d'ingrédients.
+- Créer un type qui correspond au format des données reçus par l'API
+- Créer une fonction qui permet de créer un nouvel ingrédient

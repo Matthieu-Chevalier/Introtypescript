@@ -29,3 +29,12 @@ addProduct({
 
 console.log("Après:" + meals.length);
 console.log(meals[574]);
+/** index.ts **/
+// import { PrismaClient } from "@prisma/client";
+// const prisma = new PrismaClient();
+
+async function main() {
+    // Make changes here
+}
+
+main()
